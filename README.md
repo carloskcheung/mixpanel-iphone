@@ -112,3 +112,6 @@ Tracking additional events is as easy as adding `track:` or `track:properties:` 
 You're done! You've successfully integrated the Mixpanel SDK into your app. To stay up to speed on important SDK releases and updates watch our iPhone repository on [Github](https://github.com/mixpanel/mixpanel-iphone).
 
 Have any questions? Reach out to [support@mixpanel.com](mailto:support@mixpanel.com) to speak to someone smart, quickly.
+
+
+# License

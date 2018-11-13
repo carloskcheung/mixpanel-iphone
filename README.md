@@ -4,6 +4,7 @@
 [![CocoaPods Version](http://img.shields.io/cocoapods/v/Mixpanel.svg?style=flat)](https://mixpanel.com)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Apache License](http://img.shields.io/cocoapods/l/Mixpanel.svg?style=flat)](https://mixpanel.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fmixpanel-iphone.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2Fmixpanel-iphone?ref=badge_shield)
 
 # Table of Contents
 
@@ -112,3 +113,7 @@ Tracking additional events is as easy as adding `track:` or `track:properties:` 
 You're done! You've successfully integrated the Mixpanel SDK into your app. To stay up to speed on important SDK releases and updates watch our iPhone repository on [Github](https://github.com/mixpanel/mixpanel-iphone).
 
 Have any questions? Reach out to [support@mixpanel.com](mailto:support@mixpanel.com) to speak to someone smart, quickly.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fmixpanel-iphone.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2Fmixpanel-iphone?ref=badge_large)
